@@ -1,30 +1,30 @@
-Tic Tac Toe Game 🎮
+# Tic Tac Toe Game 🎮
 
-A simple Tic Tac Toe game built using HTML, CSS, and JavaScript. Play against a friend in this classic two-player game!
+A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play against a friend in this classic two-player game!
 
-Features
+## Features
+- 🎮 Classic **3x3 grid** gameplay  
+- 👥 **Two-player mode**   
+- 🏆 **Winner detection & draw handling**  
+- 🔄 **Restart game option**
 
-✅ Classic 3x3 grid gameplay
-✅ Two-player mode
-✅ Winner detection & draw handling
+## How to Play
+1. The game starts with **Player X** and **Player O** taking turns.
+2. Click on an empty cell to place your mark.
+3. The first player to get **three in a row (horizontal, vertical, or diagonal)** wins!
+4. If all cells are filled without a winner, the game ends in a **draw**.
+5. Click the **Restart** button to play again.
 
-How to Play
+## Installation & Usage
+To play the game, follow these steps:
 
-The game starts with Player X and Player O taking turns.
+### Option 1: Play Online
+### Option 1: Play Online
+- Play the game online: [Tic Tac Toe Live Demo](https://your-username.github.io/tic-tac-toe/)
 
-Click on an empty cell to place your mark.
 
-The first player to get three in a row (horizontal, vertical, or diagonal) wins!
-
-If all cells are filled without a winner, the game ends in a draw.
-
-Installation & Usage
-
-Clone the repository and open the game:
-
+### Option 2: Play Locally
+Clone the repository to your local machine:
+```bash
 git clone https://github.com/your-username/tic-tac-toe.git
 cd tic-tac-toe
-
-Run the game:
-
-Open index.html in a browser to start playing.
