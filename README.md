@@ -20,7 +20,7 @@ To play the game, follow these steps:
 
 ### Option 1: Play Online
 ### Option 1: Play Online
-- Play the game online: [Tic Tac Toe Live Demo](https://your-username.github.io/tic-tac-toe/)
+- Play the game online: [Tic Tac Toe Live Demo](https://tic-tac-toe-game4545.netlify.app/)
 
 
 ### Option 2: Play Locally
