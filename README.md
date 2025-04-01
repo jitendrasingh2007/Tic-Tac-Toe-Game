@@ -18,7 +18,7 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play ag
 ## Installation & Usage
 To play the game, follow these steps:
 
-### Option 1: Play Online
+
 ### Option 1: Play Online
 - Play the game online: [Tic Tac Toe Live Demo](https://tic-tac-toe-game4545.netlify.app/)
 
